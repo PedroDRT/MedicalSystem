@@ -1,0 +1,15 @@
+D:\Técnico\Marcos Cozatti\SistemaMedico\SistemaMedico\bin\Debug\SistemaMedico.exe.config
+D:\Técnico\Marcos Cozatti\SistemaMedico\SistemaMedico\bin\Debug\SistemaMedico.exe
+D:\Técnico\Marcos Cozatti\SistemaMedico\SistemaMedico\bin\Debug\SistemaMedico.pdb
+D:\Técnico\Marcos Cozatti\SistemaMedico\SistemaMedico\obj\Debug\SistemaMedico.csprojAssemblyReference.cache
+D:\Técnico\Marcos Cozatti\SistemaMedico\SistemaMedico\obj\Debug\SistemaMedico.Properties.Resources.resources
+D:\Técnico\Marcos Cozatti\SistemaMedico\SistemaMedico\obj\Debug\SistemaMedico.csproj.GenerateResource.cache
+D:\Técnico\Marcos Cozatti\SistemaMedico\SistemaMedico\obj\Debug\SistemaMedico.csproj.CoreCompileInputs.cache
+D:\Técnico\Marcos Cozatti\SistemaMedico\SistemaMedico\obj\Debug\SistemaMedico.exe
+D:\Técnico\Marcos Cozatti\SistemaMedico\SistemaMedico\obj\Debug\SistemaMedico.pdb
+D:\Técnico\Marcos Cozatti\SistemaMedico\SistemaMedico\obj\Debug\SistemaMedico.CadastroCli.resources
+D:\Técnico\Marcos Cozatti\SistemaMedico\SistemaMedico\obj\Debug\SistemaMedico.SistemaMedico.resources
+D:\Técnico\Marcos Cozatti\SistemaMedico\SistemaMedico\obj\Debug\SistemaMedico.Agendacli.resources
+D:\Técnico\Marcos Cozatti\SistemaMedico\SistemaMedico\obj\Debug\SistemaMedico.Login.resources
+D:\Técnico\Marcos Cozatti\SistemaMedico\SistemaMedico\bin\Debug\AlphaBlendTextBox.dll
+D:\Técnico\Marcos Cozatti\SistemaMedico\SistemaMedico\obj\Debug\SistemaMedico.csproj.CopyComplete
